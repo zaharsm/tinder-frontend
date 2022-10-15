@@ -1,6 +1,7 @@
 #Tinder FrontEnd
 
-           FrontEnd - https://tinder-clone-d8f43.web.app/ BackEnd - https://zahar-tinder.herokuapp.com/
+           FrontEnd - https://tinder-clone-d8f43.web.app/ 
+           BackEnd - https://zahar-tinder.herokuapp.com/
            
 <img src="tinder1.png">
 
